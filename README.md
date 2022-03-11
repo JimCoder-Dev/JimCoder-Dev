@@ -1,5 +1,5 @@
 # Hello there, I'm James
-## A Developer from the UK
+## A Developer from the UK 🇬🇧
 
 - 🖥 Currently completing the Scrimba Frontend Developer Pathway
 - ♜ Playing and improving at chess

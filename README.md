@@ -1,5 +1,4 @@
-### Hello there, I'm James
-
+# Hello there, I'm James
 ## A Developer from the UK
 
 - 🖥 Currently completing the Scrimba Frontend Developer Pathway

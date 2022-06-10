@@ -1,10 +1,10 @@
 # Hello there, I'm James
 ## A Developer from the UK 🇬🇧
 
-- 🖥 Currently completing the Scrimba Frontend Developer Pathway
+- 🖥 Scrimba Frontend Developer Pathway ✅
+- - 🌍 Building projects from Frontend Mentor
 - ♜ Playing and improving at chess
-- 🌍 Building project from Frontend Mentor
-- ✌️ Completing a course on wellbeing
+- ✌️ Completed a course on wellbeing ✅
 
 - [LinkedIn](https://www.linkedin.com/).
 

@@ -1,5 +1,5 @@
 # Hello there, I'm James
-## A Developer from the UK 🇬🇧
+## A Software Developer from the UK
 
 - 🖥 Scrimba Frontend Developer Pathway ✅
 - 🌍 Building projects from Frontend Mentor

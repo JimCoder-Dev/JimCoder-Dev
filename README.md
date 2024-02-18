@@ -6,7 +6,7 @@
 - ♜ Playing and improving at chess
 - ✌️ Completed a course on wellbeing ✅
 
-- [LinkedIn](https://www.linkedin.com/).
+
 
 
 

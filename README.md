@@ -1,5 +1,4 @@
 # Hello there, I'm James
-## A Software Developer from the UK
 
 - 🌍 Building projects from Frontend Mentor
 

@@ -1,10 +1,8 @@
 # Hello there, I'm James
 ## A Software Developer from the UK
 
-- 🖥 Scrimba Frontend Developer Pathway ✅
 - 🌍 Building projects from Frontend Mentor
-- ♜ Playing and improving at chess
-- ✌️ Completed a course on wellbeing ✅
+
 
 
 
